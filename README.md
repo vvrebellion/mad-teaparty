@@ -1,6 +1,7 @@
 # The Mad Teaparty
 
-I received a "Work of the Week" award for this project!! 
+I received a "Work of the Week" award for this project!! Check it out in the link below:
+
 https://www.notion.so/vvrebellion/Project-1-Best-Works-WOW-067cdb38c32b422c9525068c2d31b6ab
 
 ![WOW 1](https://user-images.githubusercontent.com/70511563/113978906-82f07f80-987f-11eb-8c2c-279daa86e209.png)
