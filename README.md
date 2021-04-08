@@ -1,4 +1,4 @@
-# mad-teaparty
+# The Mad Teaparty
 The Mad Tea Party is an interactive video projection for a new teapot launching event. The target users are visitors of the event, potential buyers of the new teapot.
 
 ![image](https://user-images.githubusercontent.com/70511563/113978381-d7dfc600-987e-11eb-8658-a568683bd04f.png)
